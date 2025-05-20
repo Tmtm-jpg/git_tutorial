@@ -2,4 +2,4 @@ Gitチュートリアル
 git status
 git diff  aaaaa
 git commit --amend
-<p>git merge</p>
+<p>git mergea</p>
