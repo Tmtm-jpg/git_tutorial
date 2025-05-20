@@ -2,3 +2,4 @@ Gitチュートリアル
 git status
 git diff  aaaaa
 git commit --amend
+conflict
